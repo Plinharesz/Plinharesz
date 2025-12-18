@@ -2,7 +2,7 @@
 
 I am a Software Engineering student passionate about technology and learning how things work. I'm at the beginning of my journey into the world of development and excited for the challenges to come.
 
-Currently, I'm diving into **Backend** development and exploring the possibilities of the **Cloud**. I am expected to graduate in **June 2028**.
+Currently, I'm diving into **Backend** development. I am expected to graduate in **December 2027**.
 
 <a href="https://www.linkedin.com/in/pedro-linhares-290285344/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
