@@ -1,8 +1,8 @@
 ### 👋 Hello, I'm Pedro Linhares!
 
-I am a Software Engineering student passionate about technology and learning how things work. I'm at the beginning of my journey into the world of development and excited for the challenges to come.
+I am a Software Engineering student passionate about technology and learning how things work. I’m currently diving into Backend development, with a strong interest in Data Structures and Algorithms to build efficient and scalable solutions.
 
-Currently, I'm diving into **Backend** development. I am expected to graduate in **December 2027**.
+I am expected to graduate in **December 2027**.
 
 <a href="https://www.linkedin.com/in/pedro-linhares-290285344/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
@@ -48,8 +48,8 @@ These are some of my areas of focus at the moment:
 ---
 
 ### Goals
-
-- Deepen my knowledge in a programming language (Java,Python, or C).
+- Deepen my knowledge in Data Structures and Algorithms, focusing on problem-solving and performance.
+- Deepen my knowledge in a programming language (Java,Python).
 - Connect with the developer community to learn and share experiences.
 
 
