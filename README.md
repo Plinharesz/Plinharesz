@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Pedro Linhares!
+### Hello, I'm Pedro Linhares!
 
 I am a Software Engineering student passionate about technology and learning how things work. I’m currently diving into Backend development, with a strong interest in Data Structures and Algorithms to build efficient and scalable solutions.
 
